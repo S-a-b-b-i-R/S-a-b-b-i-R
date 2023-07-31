@@ -13,10 +13,6 @@ Hello! 👋 I'm a Full Stack Software Engineer who's passionate about blending f
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-a-b-b-i-R&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-a-b-b-i-R&theme=react&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
