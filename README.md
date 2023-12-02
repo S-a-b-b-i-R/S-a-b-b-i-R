@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Hello! 👋 I'm a Full Stack Software Engineer who's passionate about blending functionality and a touch of artistry in my work. I've tinkered with technologies like ASP.NET MVC, AngularJS, and .NET Core Web API, and I try my best to stay up-to-date. Collaboration, attention to detail, and a love for coding are my driving forces. Let's connect and see how we can create something awesome together! 🚀💻
+Hello! 👋 I'm a Full Stack Software Engineer with experience primarily in ASP .NET MVC. While I've worked with technologies like ASP .NET MVC, AngularJS, and .NET Core Web API, I'm currently exploring opportunities to transition into the MERN (MongoDB, Express.js, React, Node.js) stack. I've built a solid foundation in MERN and am eager to further develop my skills. Collaboration, attention to detail, and a genuine passion for coding motivate me. I'm open to connecting and discussing how we can create meaningful projects together! 🚀💻
 
-## 🌐 Socials:
+## 🌐 Find Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-a-b-b-i-r-ahmed)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-a-b-b-i-r-ahmed) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/S_a_b_b_i_R) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-a-b-b-i-R)
 
 # 💻 Tech Stack:
 
