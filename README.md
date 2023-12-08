@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! 👋 I'm a Full Stack Software Engineer with experience primarily in ASP .NET MVC. While I've worked with technologies like ASP .NET MVC, AngularJS, and .NET Core Web API, I'm currently exploring opportunities to transition into the MERN (MongoDB, Express.js, React, Node.js) stack. I've built a solid foundation in MERN and am eager to further develop my skills. Collaboration, attention to detail, and a genuine passion for coding motivate me. I'm open to connecting and discussing how we can create meaningful projects together! 🚀💻
+Hello! 👋 I'm a Full Stack Software Engineer with experience primarily in ASP .NET MVC. While I've worked with technologies like ASP .NET MVC, AngularJS, and .NET Core Web API, I'm currently exploring opportunities to transition into the MERN (MongoDB, Express.js, React, Node.js) stack, with a particular emphasis on front-end development. I've built a solid foundation in ReactJs and am eager to further develop my skills. Collaboration, attention to detail, and a genuine passion for coding motivate me. I'm open to connecting and discussing how we can create meaningful projects together! 🚀💻
 
 ## 🌐 Find Me:
 
