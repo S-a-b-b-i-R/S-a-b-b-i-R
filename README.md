@@ -4,7 +4,7 @@
 		<p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-weight: bold; font-size: 5vw; text-align: left;">Hey, I am Sabbir</p>
 		<p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-size: 1.8vw; text-align: left;">Software Engineer || .NET || MERN</p>
 	</div>
-	<br><br>
+	<br/>
 </div>
 
 # 💫 About Me:
