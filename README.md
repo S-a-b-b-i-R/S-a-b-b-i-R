@@ -15,6 +15,9 @@ Hello! 👋 I'm a Full Stack Software Engineer with experience primarily in ASP 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+### 📈 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-a-b-b-i-R&theme=react&hide_border=false" alt="GitHub Streak Stats" />
 </p>
