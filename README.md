@@ -1,3 +1,11 @@
+<div style="position: relative">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="full">
+<div style="position: absolute; top: 50%; left: 2%; transform: translateY(-50%); color: white;">
+    <p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-weight: bold; font-size: 5vw; text-align: left;">Hey, I am Sabbir</p>
+    <p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-size: 1.8vw; text-align: left;">Software Engineer || .NET || MERN</p>
+  </div>
+<br><br></div>
+
 # 💫 About Me:
 
 Hello! 👋 I'm a Full Stack Software Engineer with experience primarily in ASP .NET MVC. While I've worked with technologies like ASP .NET MVC, AngularJS, and .NET Core Web API, I'm currently exploring opportunities to transition into the MERN (MongoDB, Express.js, React, Node.js) stack, with a particular emphasis on front-end development. I've built a solid foundation in ReactJs and am eager to further develop my skills. Collaboration, attention to detail, and a genuine passion for coding motivate me. I'm open to connecting and discussing how we can create meaningful projects together! 🚀💻
