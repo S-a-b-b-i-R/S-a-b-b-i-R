@@ -1,10 +1,11 @@
 <div style="position: relative">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="full">
-<div style="position: absolute; top: 50%; left: 2%; transform: translateY(-50%); color: white;">
-    <p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-weight: bold; font-size: 5vw; text-align: left;">Hey, I am Sabbir</p>
-    <p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-size: 1.8vw; text-align: left;">Software Engineer || .NET || MERN</p>
-  </div>
-<br><br></div>
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="full">
+	<div style="position: absolute; top: 50%; left: 2%; transform: translateY(-50%); color: white;">
+		<p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-weight: bold; font-size: 5vw; text-align: left;">Hey, I am Sabbir</p>
+		<p style="background: linear-gradient(to right, #F2F2F2, #10F9CB);background-clip: text;-webkit-background-clip: text;color: transparent; font-size: 1.8vw; text-align: left;">Software Engineer || .NET || MERN</p>
+	</div>
+	<br><br>
+</div>
 
 # 💫 About Me:
 
